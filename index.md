@@ -4,27 +4,20 @@
 
 ### Projects
 
-[Vision Based Color and Geometric feature identification of Apple Trees for Nutrient Assessment ](https://rex.libraries.wsu.edu/esploro/outputs/99900592359101842)
-<img src="images/gator.jpeg?raw=true"/>
+[Vision Based Color and Geometric feature identification of Apple Trees for Nutrient Assessment ](asd)
+
+<img src="images/gator.jpeg?raw=true" width="200"/>
 
 ---
 [Stereo-vision Based Shuttlecock Tracking to Determine its Aerodynamic Properties](https://rex.libraries.wsu.edu/esploro/outputs/99900592359101842)
 <img src="images/setup.png?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
 
-### Category Name 2
+### Washington State University (2018 - Present)
 
-- [Project 1 T](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
+#### MS Mechanical Engineering (2018-2020)
+#### Ph.D. Biosystems Engineering (2021 - Present)
 ---
 
 
