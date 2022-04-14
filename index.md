@@ -5,7 +5,7 @@
 ### Projects
 
 [Vision Based Color and Geometric feature identification of Apple Trees for Nutrient Assessment ](https://rex.libraries.wsu.edu/esploro/outputs/99900592359101842)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/gator.jpeg?raw=true"/>
 
 ---
 [Stereo-vision Based Shuttlecock Tracking to Determine its Aerodynamic Properties](https://rex.libraries.wsu.edu/esploro/outputs/99900592359101842)
