@@ -2,14 +2,14 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
-[Project 1 Title](/sample_page)
+[Vision Based Color and Geometric feature identification of Apple Trees for Nutrient Assessment ](https://rex.libraries.wsu.edu/esploro/outputs/99900592359101842)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Stereo-vision Based Shuttlecock Tracking to Determine its Aerodynamic Properties](https://rex.libraries.wsu.edu/esploro/outputs/99900592359101842)
+<img src="images/setup.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
