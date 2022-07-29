@@ -2,13 +2,13 @@
 <meta http-equiv='expires' content='0'> 
 <meta http-equiv='pragma' content='no-cache'>
 
-## Portfolio
+# Portfolio
 
 ---
 
-### Projects
+## Projects
 
-[Vision Based Color and Geometric feature identification of Apple Trees for Nutrient Assessment ](asd)
+[Vision Based Features extracton of Apple Trees for Nitrogen Assessment ](asd)
 
 <img src="images/gator.jpeg?raw=true" width="200"/>
 
@@ -24,7 +24,10 @@
 #### Ph.D. Biosystems Engineering (2021 - Present)
 ---
 
+## Groups I worked with
 
+[Sports Science Lab, Washignton State University (2018 - 2020)](https://ssl.wsu.edu/)
+[Agricultural Automation and Robotics Lab (2021 - present)] (https://labs.wsu.edu/karkee-ag-robotics/)
 
 
 ---
