@@ -27,6 +27,7 @@
 ## Groups I worked with
 
 [Sports Science Lab, Washignton State University (2018 - 2020)](https://ssl.wsu.edu/)
+
 [Agricultural Automation and Robotics Lab (2021 - present)] (https://labs.wsu.edu/karkee-ag-robotics/)
 
 
