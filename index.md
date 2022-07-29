@@ -12,7 +12,7 @@
 
 <img src="images/gator.jpeg?raw=true" width="200"/>
 
-<img src="images/zed.png?raw=true"/>
+<img src="images/zed.png?raw=true"/ width="200"/>
 
 
 ---
