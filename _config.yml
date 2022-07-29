@@ -2,7 +2,7 @@ title: Achyut Paudel # your name (or website title) here
 logo: "/images/image.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
 
-[My CV](pdf/Achyut_paudel_resume.pdf)
+<a href = "pdf/Achyut_Paudel_Resume.pdf"> My CV </a>
   <br><br>
 
   <a href="https://www.linkedin.com/in/achyut-paudel-a46a97146/">
