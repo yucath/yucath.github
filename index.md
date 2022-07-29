@@ -16,7 +16,7 @@
 
 
 ---
-[Stereo-vision Based Shuttlecock Tracking to Determine its Aerodynamic Properties](https://rex.libraries.wsu.edu/esploro/outputs/99900592359101842)
+[Stereo-vision Based Tracking and Drag Measurement of Shuttlecock](https://rex.libraries.wsu.edu/esploro/outputs/99900592359101842)
 <img src="images/setup.png?raw=true"/>
 
 <img src="images/axes.png?raw=true" width="200"/>
@@ -30,7 +30,7 @@
 #### Ph.D. Biosystems Engineering (2021 - Present)
 ---
 
-## Groups I worked with
+## Research Labs
 
 [Sports Science Lab, Washington State University (2018 - 2020)](https://ssl.wsu.edu/)
 
