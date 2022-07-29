@@ -8,14 +8,14 @@
 
 ## Projects
 
-[Vision Based Features extracton of Apple Trees for Nitrogen Assessment ](asd)
+[Vision Based Features Extracton of Apple Trees for Nitrogen Assessment ](asd)
 
 <img src="images/gator.jpeg?raw=true" width="200"/>
 
 ---
 [Stereo-vision Based Shuttlecock Tracking to Determine its Aerodynamic Properties](https://rex.libraries.wsu.edu/esploro/outputs/99900592359101842)
 <img src="images/setup.png?raw=true"/>
-
+<img src="images/zed.png?raw=true"/>
 
 
 ### Washington State University (2018 - Present)
