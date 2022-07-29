@@ -22,11 +22,12 @@
 <img src="images/shuttlecock.png?raw=true" width="200"/>
 
 
-
+---
 ### Washington State University (2018 - Present)
 
 #### MS Mechanical Engineering (2018-2020)
 #### Ph.D. Biosystems Engineering (2021 - Present)
+
 ---
 
 ## Research Labs
