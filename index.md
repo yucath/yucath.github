@@ -8,7 +8,8 @@
 
 ## Projects
 
-[Vision Based Features Extracton of Apple Trees for Nitrogen Assessment ](https://www.sciencedirect.com/science/article/pii/S2405896322027598)
+###[Vision Based Features Extracton of Apple Trees for Nitrogen Assessment ](https://www.sciencedirect.com/science/article/pii/S2405896322027598)
+
 <img src="images/tree.jpeg?raw=true" width="200"/>
 <img src="images/row1.jpeg?raw=true" width="200"/>
 <img src="images/gator.jpeg?raw=true" width="200"/>
@@ -16,7 +17,7 @@
 
 
 ---
-[Stereo-vision Based Tracking and Drag Measurement of Shuttlecock](https://rex.libraries.wsu.edu/esploro/outputs/99900592359101842)
+###[Stereo-vision Based Tracking and Drag Measurement of Shuttlecock](https://rex.libraries.wsu.edu/esploro/outputs/99900592359101842)
 <img src="images/setup.png?raw=true"/>
 
 <img src="images/axes.png?raw=true" width="200"/>
@@ -26,8 +27,9 @@
 ---
 ### Washington State University (2018 - Present)
 
-#### MS Mechanical Engineering (2018-2020)
-#### Ph.D. Biosystems Engineering (2021 - Present)
+#### [BE Mechanical Engineering (2012 -2016)](https://tcioe.edu.np/page/BME)
+#### [MS Mechanical Engineering (2018-2020)](https://mme.wsu.edu/)
+####[ Ph.D. Biosystems Engineering (2021 - Present)](https://bsyse.wsu.edu/)
 
 ---
 
@@ -37,8 +39,9 @@
 
 [Agricultural Automation and Robotics Lab (2021 - present)](https://labs.wsu.edu/karkee-ag-robotics/)
 
-
-
 ---
+
+## Tutorials
+## [My Tutorials](tutorials.md)
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
