@@ -1,43 +1,9 @@
-<meta http-equiv='cache-control' content='no-cache'> 
-<meta http-equiv='expires' content='0'> 
-<meta http-equiv='pragma' content='no-cache'>
-
-# Portfolio
-
 ---
-
-## Projects
-
-[Vision Based Features Extracton of Apple Trees for Nitrogen Assessment ](asd)
-<img src="images/tree.jpeg?raw=true" width="200"/>
-<img src="images/gator.jpeg?raw=true" width="200"/>
-<img src="images/zed.png?raw=true" width="200"/>
-
-
+#
+# By default, content added below the "---" mark will appear in the home page
+# between the top bar and the list of recent posts.
+# To change the home page layout, edit the _layouts/home.html file.
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+#
+layout: default
 ---
-[Stereo-vision Based Tracking and Drag Measurement of Shuttlecock](https://rex.libraries.wsu.edu/esploro/outputs/99900592359101842)
-<img src="images/setup.png?raw=true"/>
-
-<img src="images/axes.png?raw=true" width="200"/>
-<img src="images/shuttlecock.png?raw=true" width="200"/>
-
-
----
-### Washington State University (2018 - Present)
-
-#### MS Mechanical Engineering (2018-2020)
-#### Ph.D. Biosystems Engineering (2021 - Present)
-
----
-
-## Research Labs
-
-[Sports Science Lab, Washington State University (2018 - 2020)](https://ssl.wsu.edu/)
-
-[Agricultural Automation and Robotics Lab (2021 - present)](https://labs.wsu.edu/karkee-ag-robotics/)
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
