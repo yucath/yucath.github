@@ -2,17 +2,14 @@ title: Achyut Paudel # your name (or website title) here
 logo: "/images/image.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
 
-P.hD. student | Machine Vision | Agricultural Robotics | Machine Learning
 
-  <br>
-  <br>
+  <br><br>
 
   <a href="https://www.linkedin.com/in/achyut-paudel-a46a97146/">
   <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn</a> 
 
-<br>
   <a href="https://scholar.google.com/citations?user=naXFPGEAAAAJ&hl=en&oi=ao">
-  <img src="images/google.png" width = "5"/> Google Scholar</a> 
+  <img src="images/google.png" width = "1"/> Google Scholar</a> 
 
   
 theme: jekyll-theme-minimal
