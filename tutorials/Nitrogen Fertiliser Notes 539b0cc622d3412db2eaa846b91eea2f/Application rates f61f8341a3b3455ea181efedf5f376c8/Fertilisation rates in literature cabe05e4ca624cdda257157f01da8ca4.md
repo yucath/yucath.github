@@ -1,0 +1,3 @@
+# Fertilisation rates in literature
+
+Older trees mayhave a somewhat higher N content, butmaximum tree size is often reached byyear 6 in high-density apple plantings.Recommended annual rates of N appli-cation for young dwarf apple trees rangefrom 80 to 160 lb/acre (88 to 176kg·ha–1) (Okanagan Valley Tree FruitAuthority, 1993) indicating a large po-tential oversupply when compared withactual tree uptake. (Neilsen, D., and Neilsen, G.H. (2002).   Efficient Use of Nitrogen and Water in High-density Apple Orchards. *HortTechnology horttech)*
