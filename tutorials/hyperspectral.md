@@ -133,7 +133,6 @@ line = 25 # bounding box line width
 bounding_data = corrected_nparr
 ```
 
-#### Get the ROI
 The ROIs are square boxes of 'length' defined in earlier step
 
 ```
