@@ -3,11 +3,12 @@ logo: "/images/image.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
 
 
-  <br><br>
+  <br>
 
   <a href="https://www.linkedin.com/in/achyut-paudel-a46a97146/">
   <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn</a> 
 
+  <br>
   <a href="https://scholar.google.com/citations?user=naXFPGEAAAAJ&hl=en&oi=ao">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/1024px-Google_Scholar_logo.svg.png" width = "1"/> Google Scholar</a> 
 
