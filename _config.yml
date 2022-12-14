@@ -1,5 +1,8 @@
 title: Achyut Paudel # your name (or website title) here
 logo: "/images/image.png?raw=true" # your photo (or logo) here
+markdown: kramdown
+kramdown:
+    math_engine: katex
 description: > # your text below (remove <br> elements if you don't need line breaks)
 
 
