@@ -1,6 +1,6 @@
 # Fertilising fruit trees
 
-[Fertilizing Fruit Trees - 7.612 - Extension](https://extension.colostate.edu/topic-areas/yard-garden/fertilizing-fruit-trees-7-612/)
+[Fertilizing Fruit Trees - 7.612 - Extension](https://extension.colostate.edu/topic-areas/yard-garden/fertilizing-fruit-trees-7-612/){:target="_blank"}
 
 ![fert_fruit_tree/Untitled.png](fert_fruit_tree/Untitled.png)
 

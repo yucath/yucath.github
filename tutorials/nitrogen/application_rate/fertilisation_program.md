@@ -8,7 +8,7 @@ Esteban A. Herrera, Extension Horticulturist
 
 Source: 
 
-[Fertilization Programs for Apple Orchards](https://aces.nmsu.edu/pubs/_h/H319/welcome.html)
+[Fertilization Programs for Apple Orchards](https://aces.nmsu.edu/pubs/_h/H319/welcome.html){:target="_blank"}
 
 Nitrogen rates should be adjusted so young, non-bearing trees grow 24-36 in. per year. The recommended rate is 1/20 lb of pure nitrogen per year of age of tree. To calculate the amount of a given nitrogen fertilizer needed, use the following equation:
 
