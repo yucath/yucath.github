@@ -45,7 +45,7 @@ raw_data = np.array(data_ref.load())
 
 ```
 corrected_data = np.divide(
-            np.subtract(data_data, dark_data),
+            np.subtract(raw_data, dark_data),
             np.subtract(white_data, dark_data))
 
 ```
@@ -58,7 +58,7 @@ The code below visualises RGB image using prebuilt function from spectral librar
 
 ```
 #Get RGB Image
-img = get_rgb(corrected_nparr, bands=None)
+img = get_rgb(corrected_data, bands=None)
 
 #Select single band
 #sel = 70
@@ -67,10 +67,12 @@ img = get_rgb(corrected_nparr, bands=None)
 image = cv2.normalize(img, None, alpha = 0, beta = 255, norm_type = cv2.NORM_MINMAX, dtype = cv2.CV_32F)
 image = image.astype(np.uint8)
 image = cv2.rotate(image,cv2.ROTATE_90_CLOCKWISE)
-cv2.namedWindow("main", cv2.WINDOW_NORMAL)
-cv2.imshow('main', image)
-cv2.waitKey(0)
-cv2.destroyAllWindows()
+
+#Uncomment to view the RGB Image
+#cv2.namedWindow("main", cv2.WINDOW_NORMAL)
+#cv2.imshow('main', image)
+#cv2.waitKey(0)
+#cv2.destroyAllWindows()
 ```
 
 
