@@ -1,5 +1,5 @@
 ### Needed Libraries
-> [spectral]( conda install -c conda-forge spectral){:target="_blank"}
+> [spectral]( [conda install -c conda-forge spectral](https://anaconda.org/conda-forge/spectral){:target="_blank"}
 > numpy
 > matplotlib
 > opencv
