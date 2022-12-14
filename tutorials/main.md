@@ -6,3 +6,5 @@
 [Zed ROS node for data collection](zed_data_collection.md)
 
 [Nitrogen Fertiliisation in Apple Trees](nitrogen.md)
+
+[Hyperspectral Data Processing](hyperpectral.md)
