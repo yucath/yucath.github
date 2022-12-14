@@ -7,4 +7,4 @@
 
 [Nitrogen Fertiliisation in Apple Trees](nitrogen.md)
 
-[Hyperspectral Data Processing](hyperpectral.md)
+[Hyperspectral Data Processing](hyperspectral.md)
