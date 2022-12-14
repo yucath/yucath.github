@@ -27,9 +27,9 @@
 ---
 ### Washington State University (2018 - Present)
 
-#### [BE Mechanical Engineering (2012 -2016)](https://tcioe.edu.np/page/BME) {:target="_blank"}
-#### [MS Mechanical Engineering (2018-2020)](https://mme.wsu.edu/) {:target="_blank"}
-#### [ Ph.D. Biosystems Engineering (2021 - Present)](https://bsyse.wsu.edu/) {:target="_blank"}
+#### [BE Mechanical Engineering (2012 -2016)](https://tcioe.edu.np/page/BME){:target="_blank"}
+#### [MS Mechanical Engineering (2018-2020)](https://mme.wsu.edu/){:target="_blank"}
+#### [ Ph.D. Biosystems Engineering (2021 - Present)](https://bsyse.wsu.edu/){:target="_blank"}
 
 ---
 
