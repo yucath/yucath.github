@@ -1,10 +1,10 @@
 ### Needed Libraries
-> [spectral]( [conda install -c conda-forge spectral](https://anaconda.org/conda-forge/spectral){:target="_blank"}
-> numpy
-> matplotlib
-> opencv
-> pandas
-> os
+- [spectral]( [conda install -c conda-forge spectral](https://anaconda.org/conda-forge/spectral){:target="_blank"}
+- numpy
+- matplotlib
+- opencv
+- pandas
+- os
 
 
 #### Import all the needed libraries
@@ -53,15 +53,20 @@ corrected_data = np.divide(
 #### View the Image
 To view the iimage, we can either select a band or select multiple bands to create a RGB image (select 1 band each from appropriate wavelenth in Red, Green, and Blue spectrum and arrange accordingly). 
 
-The code below selects a single band and visualises it.
+The code below visualises RGB image using prebuilt function from spectral library.
 
 
 ```
-sel = 70
-img = data_ref[:,:,sel]
+#Get RGB Image
+img = get_rgb(corrected_nparr, bands=None)
+
+#Select single band
+#sel = 70
+#img = data_ref[:,:,sel]
+
 image = cv2.normalize(img, None, alpha = 0, beta = 255, norm_type = cv2.NORM_MINMAX, dtype = cv2.CV_32F)
 image = image.astype(np.uint8)
-#image = cv2.rotate(image,cv2.ROTATE_90_CLOCKWISE)
+image = cv2.rotate(image,cv2.ROTATE_90_CLOCKWISE)
 cv2.namedWindow("main", cv2.WINDOW_NORMAL)
 cv2.imshow('main', image)
 cv2.waitKey(0)
@@ -104,6 +109,7 @@ def extract_roi(arr, x, y, w, h, intensity, line):
 
 #### View the Image to get the ROIs
 Right click on the center of the point you want to select
+
 ```
 cv2.namedWindow("main", cv2.WINDOW_NORMAL)
 #set mouse callback function for window
@@ -115,7 +121,7 @@ cv2.destroyAllWindows()
 ```
 
 #### Get the ROI
-
+![RGB Image](hyperspectral/rgb.png)
 ```
 coordinates = right_clicks
 rois = [] # returned ROIs
@@ -151,13 +157,12 @@ for i in range(len(rois)):
     int_m.append(intensity)
     int_m_1 = np.array(int_m)
     int_m_1 = np.mean(int_m,axis=0)
-    #plt.figure(2)
-    #plt.plot(bands, intensity, label='ROI {}'.format(i+1))
+    plt.figure(2)
+    plt.plot(bands, intensity, label='ROI {}'.format(i+1))
 ```
 
-#### Plot the average reflectances
+#### Plot the average reflectance
 ```
-
 plt.figure(3)
 plt.plot(bands, int_m_1, label='Mean Reflectance')
 
@@ -167,5 +172,16 @@ plt.title('Leaf Spectral Footprint\n Mean in ROI Area')
 plt.xlabel('Wavelength (nm)')
 plt.ylabel('Reflectance')
 plt.show()
+```
+![RGB Image](hyperspectral/roi.png)
+
+#### Show the final image with ROIs
 
 ```
+cv2.namedWindow("main", cv2.WINDOW_NORMAL)
+image_sel = corrected_nparr[:,:,70]
+image_sel = cv2.rotate(image_sel,cv2.cv2.ROTATE_90_CLOCKWISE)
+cv2.imshow('main', image_sel)
+cv2.waitKey(0)
+```
+![RGB Image](hyperspectral/roi_ap.png)
