@@ -3,6 +3,6 @@
 <meta http-equiv='pragma' content='no-cache'>
 
 ---
-# [Zed ROS node for data collection](zed_data_collection.md)
+[Zed ROS node for data collection](zed_data_collection.md)
 
-# [Nitrogen Fertiliisation in Apple Trees](nitrogen.md)
+[Nitrogen Fertiliisation in Apple Trees](nitrogen.md)
