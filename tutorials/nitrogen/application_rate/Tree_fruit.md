@@ -4,7 +4,7 @@
 
 **Table 2. Tree fruit demand for primary macronutrients per ton of fruit harvested.** [view as image](http://treefruit.wsu.edu/wp-content/uploads/2020/01/Orchard-Soil-Fertility_Tbl-2.png)
 
-[Untitled](Tree%20fruit%20421b1e406f7745f18f11882b1c9186e4/Untitled%20Database%206d7e068a74094a51bad63f58b488e943.csv)
+[Untitled](tree_fruit/Untitled%20Database%206d7e068a74094a51bad63f58b488e943.csv)
 
 *Use the lower end of the range in mature orchards with small amounts of pruning and where pruning material is recycled. Consider higher ends of the range in weak sites, limited areas, and when leaf N shows deficiency.*
 

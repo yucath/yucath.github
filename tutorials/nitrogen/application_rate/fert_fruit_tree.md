@@ -2,7 +2,7 @@
 
 [Fertilizing Fruit Trees - 7.612 - Extension](https://extension.colostate.edu/topic-areas/yard-garden/fertilizing-fruit-trees-7-612/)
 
-![Fertilising%20fruit%20trees%2024c6dd1004034bc4b18a79a512f34e77/Untitled.png](Fertilising%20fruit%20trees%2024c6dd1004034bc4b18a79a512f34e77/Untitled.png)
+![fert_fruit_tree/Untitled.png](fert_fruit_tree/Untitled.png)
 
 The maximum rate of nitrogen to apply to pome fruit trees (apples and pears) is 1/10th pound of nitrogen per inch of trunk diameter (measured 1 foot above ground level). Apply this amount if growth the previous year was at the low end of the recommended rate.
 
@@ -12,7 +12,7 @@ Maintain a record on the amount of nitrogen applied each year and the resulting 
 
 If a soil analysis has been conducted, the recommendations in Table 2 indicate the amount of nitrogen to apply.
 
-![Fertilising%20fruit%20trees%2024c6dd1004034bc4b18a79a512f34e77/Untitled%201.png](Fertilising%20fruit%20trees%2024c6dd1004034bc4b18a79a512f34e77/Untitled%201.png)
+![fert_fruit_tree/Untitled%201.png](fert_fruit_tree/Untitled%201.png)
 
 **Calculating the Amount of Fertilizer Applications**
 

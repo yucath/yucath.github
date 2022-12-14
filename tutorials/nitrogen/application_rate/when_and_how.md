@@ -26,7 +26,7 @@
     
     Finally, use this chart to evaluate your tree’s annual growth. If the tree’s growth rate is at the low end of, or below, annual target growth, then you should fertilize the tree this year. If your tree’s growth rate is at the high end of, or above, the annual target growth rate, you do not need to fertilize this year (but measure again next year in case that changes!).
     
-    ![When%20&%20How%20to%20Fertilize%20Your%20Fruit%20Trees%2039747518474c45f7849f02c52bd45812/Untitled.png](When%20&%20How%20to%20Fertilize%20Your%20Fruit%20Trees%2039747518474c45f7849f02c52bd45812/Untitled.png)
+    ![when_and_how/Untitled.png](when_and_how/Untitled.png)
     
     - Peaches and nectarines–non-bearing young trees should grow 18"-24", mature bearing trees should grow 12"-18".
     - Apples and pears–non-bearing young trees should grow 18"-30", mature bearing pears and non-spur type apples should grow 12"-18".

@@ -1,5 +1,5 @@
 # Nitrogen Fertiliser Notes
 
-[Application rates](Nitrogen%20Fertiliser%20Notes%20539b0cc622d3412db2eaa846b91eea2f/Application%20rates%20f61f8341a3b3455ea181efedf5f376c8.md)
+[Application rates](nitrogen/app_rate.md)
 
-[Nitrogen Deficiency](Nitrogen%20Fertiliser%20Notes%20539b0cc622d3412db2eaa846b91eea2f/Nitrogen%20Deficiency%20fc3a01277a7d40f58b955e81156b4537.md)
+[Nitrogen Deficiency](nirogen/nitrogen_deficiency.md)
