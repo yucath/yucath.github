@@ -23,7 +23,7 @@ import pandas as pd
 The hyperspectral image needs three different images to get a corrected image - *raw data* (raw reflectance values from the camera), *white ref* - which is the reflectance from white calibration surface, and *dark ref* - the refelctance from dark (usually zeros). The white and dark references are used to calibrate and normalise the raw refelctance values using the equation:
 
 $$
-    Corrected Image = {{RawReflectance - DarkReflectance} \over {WhiteReflectance - DarkReflectance}}
+    Corrected Image = {RawReflectance - DarkReflectance \over WhiteReflectance - DarkReflectance}
 $$
 
 ```
