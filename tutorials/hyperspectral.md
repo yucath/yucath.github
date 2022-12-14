@@ -186,3 +186,8 @@ cv2.imshow('main', image_sel)
 cv2.waitKey(0)
 ```
 ![RGB Image](hyperspectral/roi_ap.png)
+
+
+### Next Steps
+
+After processing the data and getting the average reflectances values for each sample, we need to apply some machine learning models like SVM, Decision Trees, Boosting or any other techniques to perform the regression or classification task as required. 
