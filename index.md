@@ -27,17 +27,17 @@
 ---
 ### Washington State University (2018 - Present)
 
-#### [BE Mechanical Engineering (2012 -2016)](https://tcioe.edu.np/page/BME)
-#### [MS Mechanical Engineering (2018-2020)](https://mme.wsu.edu/)
-#### [ Ph.D. Biosystems Engineering (2021 - Present)](https://bsyse.wsu.edu/)
+#### [BE Mechanical Engineering (2012 -2016)](https://tcioe.edu.np/page/BME) {:target="_blank"}
+#### [MS Mechanical Engineering (2018-2020)](https://mme.wsu.edu/) {:target="_blank"}
+#### [ Ph.D. Biosystems Engineering (2021 - Present)](https://bsyse.wsu.edu/) {:target="_blank"}
 
 ---
 
 ## Research Labs
 
-[Sports Science Lab, Washington State University (2018 - 2020)](https://ssl.wsu.edu/)
+[Sports Science Lab, Washington State University (2018 - 2020)](https://ssl.wsu.edu/){:target="_blank"}
 
-[Agricultural Automation and Robotics Lab (2021 - present)](https://labs.wsu.edu/karkee-ag-robotics/)
+[Agricultural Automation and Robotics Lab (2021 - present)](https://labs.wsu.edu/karkee-ag-robotics/){:target="_blank"}
 
 ---
 
