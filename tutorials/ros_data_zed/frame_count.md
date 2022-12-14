@@ -2,7 +2,7 @@
 
 **frame_count.py**
 
-```jsx
+```
 #! /usr/bin/env python3
 
 import rospy

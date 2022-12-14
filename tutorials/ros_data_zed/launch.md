@@ -2,7 +2,7 @@
 
 **collect_data.launch**
 
-```jsx
+```
 <?xml version="1.0"?>
 
 <launch>

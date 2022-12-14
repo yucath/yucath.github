@@ -2,7 +2,7 @@
 
 ************************key_press.py************************
 
-```jsx
+```
 #!/usr/bin/env python3
 
 import getch
