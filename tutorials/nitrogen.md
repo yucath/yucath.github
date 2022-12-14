@@ -2,4 +2,4 @@
 
 [Application rates](nitrogen/app_rate.md)
 
-[Nitrogen Deficiency](nirogen/nitrogen_deficiency.md)
+[Nitrogen Deficiency](nitrogen/nitrogen_deficiency.md)
